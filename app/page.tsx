@@ -161,7 +161,7 @@ export default function Portfolio() {
           <div className="w-48 h-48 sm:w-64 sm:h-64 lg:w-80 lg:h-80 mx-auto rounded-full overflow-hidden shadow-2xl border-4 border-white/50">
             <img
               src="/images/profile.jpg"
-              alt="Avni Kandya - Environmental AI Researcher"
+              alt="Avni Kandya - Software Engineer and AI/ML Researcher"
               className="w-full h-full object-cover"
             />
           </div>
@@ -181,7 +181,7 @@ export default function Portfolio() {
               Environmental AI/ML Researcher
             </h2>
             <p className="text-base sm:text-xl text-white leading-relaxed max-w-3xl mx-auto drop-shadow-md px-4">
-              Computer Science Masters student at UC Davis developing innovative AI and machine learning solutions for
+              Computer Science Masters student at UC Davis developing innovative softwares and training AI and machine learning solutions for
               climate change, environmental monitoring, and sustainable technology applications.
             </p>
           </div>
